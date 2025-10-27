@@ -1,0 +1,15 @@
+# среды и окружения
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# системные файлы
+.DS_Store
+
+# конфиденциальное
+.env
